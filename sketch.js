@@ -3,7 +3,7 @@ var dog, dogimage;
 var happyDog, happyDogImage;
 var database;
 var foodS=20;
-foodStock;
+var foodStock;
 
 
 function preload()
